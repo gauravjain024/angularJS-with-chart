@@ -3,6 +3,8 @@
 
 ## Problem Statement - Create a single page application in angular :
 
+![alt text](https://github.com/gauravjain024/angularJS-with-chart/blob/master/images/Capture.JPG?raw=true)
+
 1. Use a public fake REST API : https://jsonplaceholder.typicode.com/users
 2. This page has been distributed in the following sections :
 3. THE PIE CHART : The pie chart should be an actual representation of the
